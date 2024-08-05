@@ -1,9 +1,12 @@
 # blockchain-app
 Simple blockchain application
 - - -
+### Prerequisites
+Install `Ganache` on your local machine
+- - -
 ### Two test solidity projects
 - MetaCoin
-- ...
+- Migrations
 - - -
 ### Basic commands
 1. Initialize project:
